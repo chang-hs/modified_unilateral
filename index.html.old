@@ -13,6 +13,12 @@
 		<!-- Theme used for syntax highlighted code -->
 		<link rel="stylesheet" href="plugin/highlight/monokai.css">
 		<link rel="stylesheet" href="myreveal.css">
+		<style>
+			@font-face {
+			font-family: 'roboto';
+			src: url('fonts/Roboto-Black.ttf') format('ttf'),
+			}
+		</style>
 	</head>
 	<body>
 		<div class="reveal">
